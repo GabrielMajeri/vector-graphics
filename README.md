@@ -2,6 +2,8 @@
 
 This repository contains varied SVG images. They were all created in [Inkscape][inkscape].
 
+![Color pallet](color-pallet.svg)
+
 They are available for use in commercial or derivative as long as attribution is respected.
 
 All images in this repository are licensed under a Creative Commons
